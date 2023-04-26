@@ -21,7 +21,7 @@
 	<main>
 		<section id="home">
 			<h2>About me</h2>
-			<p>Hi, my name is [Your Name] and I'm a [Your Profession]. I created this website to showcase my work and share my experiences with others.</p>
+			<p>Hi, my name is Shaghayegh and I'm a student. I created this website to showcase my work and share my experiences with others.</p>
 		</section>
 		
 		<section id="pictures">
@@ -54,7 +54,7 @@
 	</main>
 	
 	<footer>
-		<p>Copyright © [Shaghayegh] 2023.
+		<p>Copyright © Shaghayegh 2023.
 	</footer>
 	
 </body>
