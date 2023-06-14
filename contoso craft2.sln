@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contoso craft2", "contoso craft2\contoso craft2.csproj", "{9CCF7DF2-7719-4E7B-96B3-0C0648F60BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCF7DF2-7719-4E7B-96B3-0C0648F60BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCF7DF2-7719-4E7B-96B3-0C0648F60BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCF7DF2-7719-4E7B-96B3-0C0648F60BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCF7DF2-7719-4E7B-96B3-0C0648F60BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F7278A-F0F7-43AD-B126-6D6728EBA6A7}
+	EndGlobalSection
+EndGlobal
