@@ -15,5 +15,5 @@ window.addEventListener('load', function() {
     }
     opacity += 0.01;
     box.style.opacity = opacity;
-  }, 10);
+  }, 1000);
 });
