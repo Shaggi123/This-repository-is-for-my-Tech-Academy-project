@@ -1,30 +1,18 @@
-// Define the IQuittable interface
-public interface IQuittable
-{
-    void Quit();
-}
-
-// Implement the Employee class and inherit the IQuittable interface
-public class Employee : IQuittable
-{
-    public string Name { get; set; }
-
-    // Implement the Quit() method from the IQuittable interface
-    public void Quit()
-    {
-        Console.WriteLine("Employee quitting: " + Name);
-    }
-}
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Create an object of type IQuittable and assign it an instance of Employee
-        IQuittable quittableEmployee = new Employee { Name = "John Doe" };
+        // Instantiate two Employee objects and assign values to their properties
+        Employee emp1 = new Employee { Id = 1, FirstName = "John", LastName = "Doe" };
+        Employee emp2 = new Employee { Id = 2, FirstName = "Jane", LastName = "Smith" };
 
-        // Call the Quit() method on the object of type IQuittable
-        quittableEmployee.Quit();
+        // Compare the two Employee objects using the overloaded operators
+        bool areEqual = emp1 == emp2;
+
+        // Display the results
+        Console.WriteLine($"Are the employees equal? {areEqual}");
 
         // Wait for user input before closing the console window
         Console.ReadLine();
