@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NETMVC
+build_property.RootNamespace = ASP.NETMVC
+build_property.ProjectDir = C:\Users\17783\Desktop\Framework2\ASP.NET MVC Entity Framework\ASP.NETMVC\ASP.NETMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\17783\Desktop\Framework2\ASP.NET MVC Entity Framework\ASP.NETMVC\ASP.NETMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeController 1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZUNvbnRyb2xsZXIgMVxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-hbrayro2y8
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/InsureeViewModel/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5zdXJlZVZpZXdNb2RlbFxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-8cx2sgh0nz
+
+[C:/Users/17783/Desktop/Framework2/ASP.NET MVC Entity Framework/ASP.NETMVC/ASP.NETMVC/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l17y99csbk
