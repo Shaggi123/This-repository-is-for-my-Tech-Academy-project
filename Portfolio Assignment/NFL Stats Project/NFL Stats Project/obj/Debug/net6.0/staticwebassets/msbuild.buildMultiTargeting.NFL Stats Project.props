@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NFL Stats Project.props" />
+</Project>

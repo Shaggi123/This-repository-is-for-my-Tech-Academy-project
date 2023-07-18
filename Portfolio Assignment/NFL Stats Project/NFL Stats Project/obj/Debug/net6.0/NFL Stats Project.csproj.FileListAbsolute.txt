@@ -1,0 +1,31 @@
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\appsettings.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.staticwebassets.runtime.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.exe
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.deps.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.runtimeconfig.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.dll
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\bin\Debug\net6.0\NFL Stats Project.pdb
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.csproj.AssemblyReference.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.AssemblyInfoInputs.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.AssemblyInfo.cs
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.csproj.CoreCompileInputs.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.RazorAssemblyInfo.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.RazorAssemblyInfo.cs
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets\msbuild.NFL Stats Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets\msbuild.build.NFL Stats Project.props
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NFL Stats Project.props
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NFL Stats Project.props
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\scopedcss\bundle\NFL Stats Project.styles.css
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\scopedcss\projectbundle\NFL Stats Project.bundle.scp.css
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.dll
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\refint\NFL Stats Project.dll
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.pdb
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\NFL Stats Project.genruntimeconfig.cache
+C:\Users\17783\Desktop\Framework2\NFL Stats Project\NFL Stats Project\obj\Debug\net6.0\ref\NFL Stats Project.dll
