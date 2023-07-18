@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFFRLGH0PExwTylqMXK6L867rHZns+KGcs7QyWuFSEd9qW39a1J+KP72xS5SMh19EfQn3etSC8ksD4vzGTGSdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\17783\\Desktop\\Framework2\\OperatorsAssignmentSubmission\\OperatorsAssignmentSubmission\\OperatorsAssignmentSubmission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17783\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\17783\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\17783\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\17783\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
